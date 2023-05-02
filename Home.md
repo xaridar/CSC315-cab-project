@@ -1,5 +1,5 @@
 ## Documents
-### **[Phase I]()**
+### **[Phase I](https://youtu.be/2JF6nAyszuw)**
 
 This is our video proposal for our project, which addresses initial concerns and data usage.
 
@@ -23,6 +23,6 @@ Phase IV describes functional dependencies and normalization, as well as the pro
 
 Phase V is the culmination of [this repository](../blob/main/README.md). It is made up of numerous completed source code files for database creation and population, and application execution.
 
-### **Phase VI** ([video](), [report](../blob/main/docs/Phase_6.pdf))
+### **Phase VI** ([video](https://youtu.be/oDzcPxmiSJ4), [report](../blob/main/docs/Phase_6.pdf))
 
 Phase VI contains both a final demo video of the completed project and a complete report containing all previous phases and final project discussion.
